@@ -2,6 +2,10 @@
 
 <h3 align="center">Aline's main purpose is to make <a href="https://en.wikipedia.org/wiki/Google_hacking">Google Dorks</a> while, at the same time, be able to download the data recieved from those determined searches.</h3>
 
+<p align="center">
+  <img border="0" src="./aline.png" alt="Aline Image">
+</p>
+
 <br>
 
 ## - Installation & Requirements:
