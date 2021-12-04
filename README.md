@@ -1,6 +1,6 @@
 <h1 align="center">Aline</h1> <br>
 
-<h3 align="center">Aline's main purpose is to make [Google Dorks](https://en.wikipedia.org/wiki/Google_hacking) while, at the same time be able to download the data recieved from those determined searches.</h3>
+<h3 align="center">Aline's main purpose is to make <a href="https://en.wikipedia.org/wiki/Google_hacking">Google Dorks</a> while, at the same time be able to download the data recieved from those determined searches.</h3>
 
 <br>
 
