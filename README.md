@@ -49,10 +49,3 @@ python3 aline.py -D "site:.com ext:txt" -o outputfile.txt -r 20 -s
 <br>
 
 <hr>
-
-### Para fazer:
-
-> Mostrar pra onde a URL é redirecionada, igual a função <br>
-> de seguir redirect no HTTPX (-follow-redirects)
-
-<hr>****
