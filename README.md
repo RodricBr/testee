@@ -1,8 +1,8 @@
 <h1 align="center">Aline</h1> <br>
 
 <p align="center">
-  <a href="#Usage">Usage</a> •
-  <a href="#Installation">Installation</a> •
+  <a href="#--usage">Usage</a> •
+  <a href="#--installation--requirements">Installation</a>
 </p>
 
 
