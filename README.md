@@ -1,5 +1,11 @@
 <h1 align="center">Aline</h1> <br>
 
+<p align="center">
+  <a href="#Usage">Usage</a> •
+  <a href="#Installation">Installation</a> •
+</p>
+
+
 <h3 align="center">Aline's main purpose is to make <a href="https://en.wikipedia.org/wiki/Google_hacking">Google Dorks</a> while, at the same time, be able to download the data recieved from those determined searches.</h3>
 
 <p align="center">
