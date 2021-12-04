@@ -58,3 +58,5 @@ python3 aline.py -D "site:.com ext:txt" -o outputfile.txt -r 20 -s
 <br>
 
 <hr>
+
+# Made with ❤️ by [ferreira](https://github.com/ferreiraklet)
