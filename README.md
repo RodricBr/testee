@@ -35,6 +35,7 @@ python3 aline.py -D "site:.com ext:txt" -o outputfile.txt -r 20 -s
 
   -F FILE, --file FILE  
                         :: Read a file and download containing links
+
   -D DORKS, --dorks DORKS
                         :: Dorks
 
