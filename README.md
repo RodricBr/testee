@@ -21,34 +21,32 @@
 ## - Usage:
 
 ```markdown
+# Pratical usage:
+python3 aline.py -D "site:.com ext:txt" -o outputfile.txt -r 20 -s
 
-  python3 aline.py -D "site:.com ext:txt" -o outputfile.txt -r 20 -s
-
-  -h, --help            show this help message and exit
+# Help pannel:
+  -h, --help            :: Show this help message and exit
+  
   -d DOMAIN, --domain DOMAIN
-                        Target's domain
+                        :: Target's domain
+
   -f FILETYPE, --filetype FILETYPE
-                        Filetype
-  -F FILE, --file FILE  Read a file and download containing links
+                        :: Filetype
+
+  -F FILE, --file FILE  
+                        :: Read a file and download containing links
   -D DORKS, --dorks DORKS
-                        Dorks
+                        :: Dorks
+
   -o OUTPUT, --output OUTPUT
-                        Output file
+                        :: Output file
+
   -r RANGE, --range RANGE
-                        Range, Default 50
-  -s, -silent           Silent mode
+                        :: Range, Default 50
+  -s, -silent           :: Silent mode
 ```
 <br>
 
-## - OBS:
-
-```markdown
-# É possível que o script não funcione em zsh e outros tipos de shell, ele só foi testado
-# em bash versão 5 no sistema operacional Debian 10 buster.
-
-# As URLs que não aparecem no arquivo de status code,
-# são aquelas que retornaram status 000 (fail)
-```
 <hr>
 
 ### Para fazer:
