@@ -5,8 +5,11 @@
   <a href="#--installation--requirements">Installation</a>
 </p>
 
+<hr>
 
 <h3 align="center">Aline's main purpose is to make <a href="https://en.wikipedia.org/wiki/Google_hacking">Google Dorks</a> while, at the same time, be able to download the data recieved from those determined searches.</h3>
+
+<hr>
 
 <p align="center">
   <img border="0" src="./aline.png" alt="Aline Image">
