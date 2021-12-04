@@ -20,23 +20,23 @@
 
 ## - Usage:
 
-> python3 Aline.py -h | --help <br>
-
 ```markdown
-python3 aline.py -D "site:.com ext:txt" -o outputfile.txt -r 20 -s
 
--r == Searching range
--s == Silent mode
-```
+  python3 aline.py -D "site:.com ext:txt" -o outputfile.txt -r 20 -s
 
-<br>
-
-## - Opções:
-
-```markdown
-./ceifador -h | --help      :: Mostrar o painel de ajuda
-./ceifador -u | --uninstall :: Desinstalar o programa (Não funciona no momento!)
-./ceifador <URL>            :: Executador o ceifador em uma determinada URL (sem HTTP/S na URL)
+  -h, --help            show this help message and exit
+  -d DOMAIN, --domain DOMAIN
+                        Target's domain
+  -f FILETYPE, --filetype FILETYPE
+                        Filetype
+  -F FILE, --file FILE  Read a file and download containing links
+  -D DORKS, --dorks DORKS
+                        Dorks
+  -o OUTPUT, --output OUTPUT
+                        Output file
+  -r RANGE, --range RANGE
+                        Range, Default 50
+  -s, -silent           Silent mode
 ```
 <br>
 
