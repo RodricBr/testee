@@ -22,6 +22,13 @@
 
 > python3 Aline.py -h | --help <br>
 
+```markdown
+python3 aline.py -D "site:.com ext:txt" -o outputfile.txt -r 20 -s
+
+-r == Searching range
+-s == Silent mode
+```
+
 <br>
 
 ## - Opções:
